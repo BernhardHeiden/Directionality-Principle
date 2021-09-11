@@ -3,3 +3,4 @@ This repository contains support material for the paper „Directionality Princi
 (1) Mathcad 15 File https://github.com/BernhardHeiden/Directionality-Principle/blob/main/2021_LorenzAttraktor-02.xmcd
 (2) Witness 14 File
 Later, when the paper is published, the DOI will be given here…
+![image](https://user-images.githubusercontent.com/33905999/132948350-d3d5ff26-92cc-4b04-8adf-b1f2b2d1221c.png)
